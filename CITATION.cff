@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use PROOF, cite the canonical version you relied on."
+title: "The PROOF Standard for Consequential Agent Systems"
+type: generic
+version: "0.3"
+authors:
+  - name: "Hodl"
+license: CC-BY-4.0
+abstract: "An open, versioned standard for describing and reviewing consequential agent-system controls through Premise, Role, Operation, Outcome, and Failsafe contracts."
+repository-code: "https://github.com/tomih/proof"
+url: "https://github.com/tomih/proof/releases/tag/v0.3.0"
+date-released: "2026-08-10"
