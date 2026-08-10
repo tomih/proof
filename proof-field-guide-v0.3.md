@@ -2,7 +2,7 @@
 
 ## A field guide to the PROOF Standard for Consequential Agent Systems
 
-Version 0.3 · Hodl · Hodl Advisory · CC BY 4.0
+Version 0.3 · Hodl · [Hodl Advisory](https://hodl.org) · CC BY 4.0
 
 A person can approve the right sentence while the system acts on a different object. A retry can duplicate an effect. A stopped workflow can still have queued work crossing the boundary. A confident answer can rest on the wrong evidence.
 
@@ -124,4 +124,4 @@ PROOF makes the control problem legible. It does not decide whether a particular
 
 Use the field guide to find the questions. Use the normative standard to assess the requirements. Use system-specific evidence to determine what is designed, what operates, what fails, and what remains unresolved.
 
-Created by **Hodl** and used in **Hodl Advisory's** approach to reviewing and designing consequential agent systems.
+Created by **Hodl** and used in **[Hodl Advisory's](https://hodl.org)** approach to reviewing and designing consequential agent systems.

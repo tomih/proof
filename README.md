@@ -2,7 +2,7 @@
 
 **Human approval is not human control.**
 
-PROOF is an open, implementation-neutral standard for describing and reviewing the control chain around consequential agent operations. It was created by **Hodl** and is used in **Hodl Advisory's** approach to reviewing and designing consequential agent systems.
+PROOF is an open, implementation-neutral standard for describing and reviewing the control chain around consequential agent operations. It was created by **Hodl** and is used in **[Hodl Advisory's](https://hodl.org)** approach to reviewing and designing consequential agent systems.
 
 PROOF stands for five contracts:
 
@@ -21,7 +21,7 @@ Important standards and frameworks already address AI governance, management, se
 - [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) identifies critical security risks in agentic systems.
 - [MITRE ATLAS](https://atlas.mitre.org/) catalogs adversarial tactics and techniques targeting AI-enabled systems.
 
-In Hodl Advisory's architecture work, we needed an additional, compact way to test one specific problem: whether a consequential agent operation remains bound to admissible premises, current authority, one canonical operation, authoritative outcome evidence, and a credible failsafe.
+In [Hodl Advisory's](https://hodl.org) architecture work, we needed an additional, compact way to test one specific problem: whether a consequential agent operation remains bound to admissible premises, current authority, one canonical operation, authoritative outcome evidence, and a credible failsafe.
 
 We did not find an existing framework that provided this exact consequential-operation lifecycle test. PROOF addresses that specific gap while complementing broader governance and security frameworks.
 
@@ -45,6 +45,6 @@ The vendor-payment fixture contains 11 synthetic cases that trace expected resul
 
 ## Authorship and license
 
-Created by **Hodl** and used in **Hodl Advisory's** approach to reviewing and designing consequential agent systems. The release materials are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribution is required. See `NOTICE.md` for the preferred form.
+Created by **Hodl** and used in **[Hodl Advisory's](https://hodl.org)** approach to reviewing and designing consequential agent systems. The release materials are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribution is required. See `NOTICE.md` for the preferred form.
 
 The license covers the released material. Attribution does not imply Hodl's endorsement of a modified work.

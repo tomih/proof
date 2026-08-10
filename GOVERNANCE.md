@@ -1,6 +1,6 @@
 # Governance
 
-PROOF was created by Hodl and is used in Hodl Advisory's approach to reviewing and designing consequential agent systems. Hodl remains the release authority.
+PROOF was created by Hodl and is used in [Hodl Advisory's](https://hodl.org) approach to reviewing and designing consequential agent systems. Hodl remains the release authority.
 
 ## Canonical releases
 

@@ -1,12 +1,13 @@
 ---
 title: The PROOF Standard for Consequential Agent Systems
-version: 0.3.0
+version: 0.3.1
 status: public-working-draft
 author: Hodl
 publisher: Hodl Advisory
+publisher_url: https://hodl.org
 license: CC-BY-4.0
 canonical_repository: https://github.com/tomih/proof
-canonical_release: https://github.com/tomih/proof/releases/tag/v0.3.0
+canonical_release: https://github.com/tomih/proof/releases/tag/v0.3.1
 date: 2026-08-10
 ---
 
@@ -390,6 +391,6 @@ Clear answers are not control. The answers must agree with one another, be suppo
 
 ---
 
-Created by Hodl and used in Hodl Advisory's approach to reviewing and designing consequential agent systems. Version 0.3.
+Created by Hodl and used in [Hodl Advisory's](https://hodl.org) approach to reviewing and designing consequential agent systems. Version 0.3.
 
 Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribution is required. Release history records publication of a version; it does not establish priority over all similar work or universal ownership of these ideas.

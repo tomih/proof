@@ -2,13 +2,13 @@
 
 © 2026 Hodl
 
-Created by Hodl and used in Hodl Advisory's approach to reviewing and designing consequential agent systems.
+Created by Hodl and used in [Hodl Advisory's](https://hodl.org) approach to reviewing and designing consequential agent systems.
 
 The PROOF Standard for Consequential Agent Systems, its normative prose, field guide, and synthetic fixture are licensed together under CC BY 4.0.
 
 Preferred attribution:
 
-> The PROOF Standard for Consequential Agent Systems, version 0.3, created by Hodl, licensed under CC BY 4.0. Changes were made. https://github.com/tomih/proof/releases/tag/v0.3.0
+> The PROOF Standard for Consequential Agent Systems, version 0.3, created by Hodl (https://hodl.org), licensed under CC BY 4.0. Changes were made. https://github.com/tomih/proof/releases/tag/v0.3.1
 
 Omit “Changes were made” when redistributing an unchanged copy.
 

@@ -2,7 +2,7 @@
 fixture_id: PROOF-VP-001
 version: 0.3
 status: public-synthetic-fixture
-standard_version: 0.3.0
+standard_version: 0.3.1
 created_at: 2026-08-06
 imports: []
 real_client: false

@@ -2,6 +2,11 @@
 
 All public changes to PROOF are recorded here.
 
+## 0.3.1 — 2026-08-10
+
+- Added the missing Hodl.org link to authorship, publisher, and attribution surfaces.
+- Updated patch-release metadata and provenance; normative requirements and fixture cases are unchanged.
+
 ## 0.3.0 — 2026-08-10
 
 - Initial public release.
