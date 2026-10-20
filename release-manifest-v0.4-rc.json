@@ -1,0 +1,77 @@
+{
+  "schema_version": "proof-release-manifest-v1",
+  "title": "The PROOF Standard for Consequential Agent Systems",
+  "version": "0.4.0-rc",
+  "status": "release-candidate",
+  "author": "Hodl",
+  "publisher": "Hodl Advisory",
+  "publisher_url": "https://hodl.org",
+  "license": "CC-BY-4.0",
+  "prepared_date": "2026-10-20",
+  "publication_date": null,
+  "canonical_repository": "https://github.com/tomih/proof",
+  "canonical_release": null,
+  "release_tag": null,
+  "supersedes_on_release": "0.3.1",
+  "normative_requirement_count": 55,
+  "synthetic_fixture_case_count": 13,
+  "finding_attribution": "Originally identified by Jeffrey Low during an independent external review of PROOF.",
+  "release_blockers": [
+    "release-authority approval",
+    "final publication date, tag, and canonical release URL",
+    "final citation and notice metadata",
+    "final manifest and checksum regeneration"
+  ],
+  "files": [
+    {
+      "path": "proof-standard-v0.4.md",
+      "role": "normative-standard-and-guidance",
+      "sha256": "0115524186e3ed988cc9e0fd8fcb423024fafb6b02196f358a4b5113cd128eef"
+    },
+    {
+      "path": "proof-field-guide-v0.4.md",
+      "role": "human-readable-field-guide",
+      "sha256": "f979add70c38b948a26fe21da9916db6d818276833aacb8b32800433ceed0615"
+    },
+    {
+      "path": "fixtures/vendor-payment/fixture-vp-001-v0.4.md",
+      "role": "synthetic-fixture",
+      "sha256": "14ad51e714f55383f48934f0ba72e80c2dfdea9875fd5bf171573f5fe1a0e47f"
+    },
+    {
+      "path": "README.md",
+      "role": "release-entrypoint-and-overview",
+      "sha256": "e2415371ca75e515830ba2caf38bfb9c123610fc9306c31ea84866f8ad80101c"
+    },
+    {
+      "path": "LICENSE",
+      "role": "single-release-license",
+      "sha256": "68ad5db9c7e81ce4ad9dea6a5052d70b496ed14b209fd8b026f6b0c5865c7ce5"
+    },
+    {
+      "path": "NOTICE.md",
+      "role": "authorship-attribution-and-name-use-notice",
+      "sha256": "29dc379475ca79ea4d2647c5596d361900ee4ca9cf1019a2aae458c9d6ba650a"
+    },
+    {
+      "path": "CITATION.cff",
+      "role": "citation-metadata",
+      "sha256": "0dee649fe56aba702390a481c5caf71a378b4dd28d94c567165488ce6192efbb"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "role": "version-history",
+      "sha256": "1cc548da1acad0267ea5b0e4c29ee4b6f44405c14a92e3c0462a060b6f76b831"
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "role": "release-governance",
+      "sha256": "77a68b7de523ddc8d3a5af0276f40c747110a9925a04910b7508f85f81369a92"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "role": "contribution-boundary",
+      "sha256": "c8750d309843a3ced460a97dc6544911cea783da6351acce6cd9fa064d89c472"
+    }
+  ]
+}
