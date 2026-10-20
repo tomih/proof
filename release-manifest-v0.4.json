@@ -1,47 +1,40 @@
 {
   "schema_version": "proof-release-manifest-v1",
   "title": "The PROOF Standard for Consequential Agent Systems",
-  "version": "0.4.0-rc",
-  "status": "release-candidate",
+  "version": "0.4.0",
+  "status": "public-working-draft",
   "author": "Hodl",
   "publisher": "Hodl Advisory",
   "publisher_url": "https://hodl.org",
   "license": "CC-BY-4.0",
-  "prepared_date": "2026-10-20",
-  "publication_date": null,
+  "publication_date": "2026-10-20",
   "canonical_repository": "https://github.com/tomih/proof",
-  "canonical_release": null,
-  "release_tag": null,
-  "supersedes_on_release": "0.3.1",
+  "canonical_release": "https://github.com/tomih/proof/releases/tag/v0.4.0",
+  "release_tag": "v0.4.0",
+  "supersedes": "0.3.1",
   "normative_requirement_count": 55,
   "synthetic_fixture_case_count": 13,
-  "finding_attribution": "Originally identified by Jeffrey Low during an independent external review of PROOF.",
-  "release_blockers": [
-    "release-authority approval",
-    "final publication date, tag, and canonical release URL",
-    "final citation and notice metadata",
-    "final manifest and checksum regeneration"
-  ],
+  "finding_attribution": "This release incorporates an architectural gap originally identified by Jeffrey Low during an independent review of PROOF. We thank Jeffrey for his contribution.",
   "files": [
     {
       "path": "proof-standard-v0.4.md",
       "role": "normative-standard-and-guidance",
-      "sha256": "0115524186e3ed988cc9e0fd8fcb423024fafb6b02196f358a4b5113cd128eef"
+      "sha256": "25266d9750952ce4c64653cf8c2c3cd3aeb55ffae66a569e769604e0c8f1c1b5"
     },
     {
       "path": "proof-field-guide-v0.4.md",
       "role": "human-readable-field-guide",
-      "sha256": "f979add70c38b948a26fe21da9916db6d818276833aacb8b32800433ceed0615"
+      "sha256": "c978e8d54b3d2c08375a4aefcc37bfedf92c632ebc28fe4ab87330a435e380ec"
     },
     {
       "path": "fixtures/vendor-payment/fixture-vp-001-v0.4.md",
       "role": "synthetic-fixture",
-      "sha256": "14ad51e714f55383f48934f0ba72e80c2dfdea9875fd5bf171573f5fe1a0e47f"
+      "sha256": "8042654dcfb2e1580ab0e68ba85d9581022e0d78623aa694b83f19d35e26ac3f"
     },
     {
       "path": "README.md",
       "role": "release-entrypoint-and-overview",
-      "sha256": "e2415371ca75e515830ba2caf38bfb9c123610fc9306c31ea84866f8ad80101c"
+      "sha256": "dc168c9a3071a6ca710714e9cbaded2cfcd9cce34cda280a41c2a7ab2ec88c6f"
     },
     {
       "path": "LICENSE",
@@ -51,17 +44,17 @@
     {
       "path": "NOTICE.md",
       "role": "authorship-attribution-and-name-use-notice",
-      "sha256": "29dc379475ca79ea4d2647c5596d361900ee4ca9cf1019a2aae458c9d6ba650a"
+      "sha256": "0dbf2a6aeca406b4163fb02d43102b084fcd09a5224046aca343b97948bb5138"
     },
     {
       "path": "CITATION.cff",
       "role": "citation-metadata",
-      "sha256": "0dee649fe56aba702390a481c5caf71a378b4dd28d94c567165488ce6192efbb"
+      "sha256": "54adddb9cdd3ecd277b4aad4bc8fa44b9fae2e3ffc702db49477f30bc545ce56"
     },
     {
       "path": "CHANGELOG.md",
       "role": "version-history",
-      "sha256": "1cc548da1acad0267ea5b0e4c29ee4b6f44405c14a92e3c0462a060b6f76b831"
+      "sha256": "1afdb21439b8a07cc22f2503e33825b41bc7e9a97540520038eb6cedc357a292"
     },
     {
       "path": "GOVERNANCE.md",

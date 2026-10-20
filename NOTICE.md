@@ -8,7 +8,7 @@ The PROOF Standard for Consequential Agent Systems, its normative prose, field g
 
 Preferred attribution:
 
-> The PROOF Standard for Consequential Agent Systems, version 0.3, created by Hodl (https://hodl.org), licensed under CC BY 4.0. Changes were made. https://github.com/tomih/proof/releases/tag/v0.3.1
+> The PROOF Standard for Consequential Agent Systems, version 0.4, created by Hodl (https://hodl.org), licensed under CC BY 4.0. Changes were made. https://github.com/tomih/proof/releases/tag/v0.4.0
 
 Omit “Changes were made” when redistributing an unchanged copy.
 

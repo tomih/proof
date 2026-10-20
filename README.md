@@ -33,28 +33,17 @@ The distinction matters: documentation can show that a control is designed; only
 
 ## Current canonical release
 
-- `proof-standard-v0.3.md` — normative standard and guidance.
-- `proof-field-guide-v0.3.md` — concise human-readable guide.
-- `fixtures/vendor-payment/fixture-vp-001-v0.3.md` — synthetic fixture.
+- `proof-standard-v0.4.md` — normative standard and guidance.
+- `proof-field-guide-v0.4.md` — concise human-readable guide.
+- `fixtures/vendor-payment/fixture-vp-001-v0.4.md` — synthetic fixture.
 - `LICENSE` and `NOTICE.md` — one CC BY 4.0 license and attribution terms.
 - `CITATION.cff` — citation metadata.
 - `CHANGELOG.md`, `GOVERNANCE.md`, and `CONTRIBUTING.md` — version and contribution rules.
-- `release-manifest-v0.3.json` and `SHA256SUMS-v0.3` — versioned release provenance.
+- `release-manifest-v0.4.json` and `SHA256SUMS-v0.4` — versioned release provenance.
 
-The vendor-payment fixture contains 11 synthetic cases that trace expected results to applicable requirements within the 55-ID v0.3 requirement set. It tests the wording and application of the standard without prescribing an implementation.
+The vendor-payment fixture contains 13 synthetic cases that trace expected results to applicable requirements within the 55-ID v0.4 requirement set. It tests the wording and application of the standard without prescribing an implementation.
 
-The current canonical release is [v0.3.1](https://github.com/tomih/proof/releases/tag/v0.3.1). Its versioned artifacts remain unchanged.
-
-## Unreleased v0.4 candidate
-
-The repository also contains an unreleased v0.4 candidate:
-
-- `proof-standard-v0.4.md` — candidate normative standard and guidance.
-- `proof-field-guide-v0.4.md` — candidate human-readable guide.
-- `fixtures/vendor-payment/fixture-vp-001-v0.4.md` — candidate synthetic fixture with 13 cases.
-- `release-manifest-v0.4-rc.json` and `SHA256SUMS-v0.4-rc` — candidate provenance.
-
-These files are not a canonical release until the release authority approves and publishes an immutable tag, final manifest, checksums, publication date, and canonical permalink under `GOVERNANCE.md`.
+The current canonical release is [v0.4.0](https://github.com/tomih/proof/releases/tag/v0.4.0). Earlier versioned artifacts and tags, including v0.3.1, remain available as immutable history.
 
 ## Authorship and license
 
