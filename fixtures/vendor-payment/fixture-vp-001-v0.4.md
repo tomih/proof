@@ -1,8 +1,8 @@
 ---
 fixture_id: PROOF-VP-001
 version: 0.4
-status: release-candidate-synthetic-fixture
-standard_version: 0.4.0-rc
+status: public-synthetic-fixture
+standard_version: 0.4.0
 created_at: 2026-10-20
 imports: []
 real_client: false
@@ -267,8 +267,8 @@ The Reconciliation Executor queries the provider and accounting systems and find
 - **Assessment target:** synthetic target design and future implementation exercises.
 - **Claim layer:** proposed design; no implementation or operating claim.
 - **Assessment phase:** design until observable exercises exist.
-- **System and evidence version:** this fixture, version 0.4 release candidate, reviewed against PROOF v0.4 release candidate.
-- **Evidence provenance:** synthetic fixture text prepared for the PROOF v0.4 release candidate.
+- **System and evidence version:** this fixture, version 0.4, reviewed against PROOF v0.4.
+- **Evidence provenance:** synthetic fixture text published with PROOF v0.4.
 
 ## Assessment table
 

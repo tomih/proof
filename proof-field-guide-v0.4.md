@@ -2,7 +2,7 @@
 
 ## A field guide to the PROOF Standard for Consequential Agent Systems
 
-Version 0.4 release candidate · Hodl · [Hodl Advisory](https://hodl.org) · CC BY 4.0
+Version 0.4 · Hodl · [Hodl Advisory](https://hodl.org) · CC BY 4.0
 
 A person can approve the right sentence while the system acts on a different object. A retry can duplicate an effect. A stopped workflow can still have queued work crossing the boundary. A confident answer can rest on the wrong evidence.
 

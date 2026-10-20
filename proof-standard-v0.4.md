@@ -1,19 +1,19 @@
 ---
 title: The PROOF Standard for Consequential Agent Systems
-version: 0.4.0-rc
-status: release-candidate
+version: 0.4.0
+status: public-working-draft
 author: Hodl
 publisher: Hodl Advisory
 publisher_url: https://hodl.org
 license: CC-BY-4.0
 canonical_repository: https://github.com/tomih/proof
-canonical_release: null
+canonical_release: https://github.com/tomih/proof/releases/tag/v0.4.0
 date: 2026-10-20
 ---
 
 # The PROOF Standard for Consequential Agent Systems
 
-## Version 0.4 release candidate
+## Version 0.4
 
 Human approval is not human control.
 
